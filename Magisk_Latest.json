@@ -13,9 +13,5 @@
     "versionCode": "20000",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.0/Magisk-v20.0.zip",
     "md5": "56F82549E9F3C659A11F1F459E56489F"
-  },
-  "message":{
-  	"Power By":"topjohnwu",
-  	"Address":"https://github.com/topjohnwu/Magisk/releases/"
   }
 }
